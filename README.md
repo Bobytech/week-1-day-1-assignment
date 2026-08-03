@@ -4,16 +4,16 @@
 
 This repository contains my Week 1 Day 1 HTML assignment.
 
-# Week 1 Day 1 Assignment
+## Screenshots
 
-## Index.html homepage
+### Index.html Homepage
 
-C:\Users\!ADMIN!\OneDrive\Desktop\MACTABA LABS\week-1-day-1-assignment\screenshots
+![Index Page](screenshots/index-page.png)
 
-## Business card.html homepage
+### Business-card.html Homepage
 
-C:\Users\!ADMIN!\OneDrive\Desktop\MACTABA LABS\week-1-day-1-assignment\screenshots
+![Business Card](screenshots/Business-card.png)
 
-## Schedule.html homepage
+### Schedule.html Homepage
 
-C:\Users\!ADMIN!\OneDrive\Desktop\MACTABA LABS\week-1-day-1-assignment\screenshots
+![Schedule Page](screenshots/Schedule-page.png)
